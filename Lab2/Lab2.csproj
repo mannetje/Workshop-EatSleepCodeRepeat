@@ -40,6 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AbstractAccount.cs" />
     <Compile Include="Accounts.cs" />
     <Compile Include="BusinessException.cs" />
     <Compile Include="CheckingAccount.cs" />
